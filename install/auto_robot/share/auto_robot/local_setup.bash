@@ -1,0 +1,1 @@
+/home/abdullahemirkirecci/yeni_ws/build/auto_robot/ament_cmake_environment_hooks/local_setup.bash
